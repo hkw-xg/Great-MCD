@@ -1,5 +1,5 @@
-# Great-MSD
-Multimodal Sensing dataset
+# Great-MSCD
+Multimodal Sensing communication dataset
 
 paper: **Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine**
 
